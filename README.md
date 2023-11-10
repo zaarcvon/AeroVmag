@@ -1,2 +1,2 @@
 # AeroVmag
-The source code for AeroVmag
+This repository contains source code for some of the AeroVmag functions and linked to the paper ...............
